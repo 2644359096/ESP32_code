@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "glcdfont.c": "cpp",
+        "cstdint": "cpp"
+    },
+    "cmake.ignoreCMakeListsMissing": true,
+    "C_Cpp.errorSquiggles": "enabled"
+}
